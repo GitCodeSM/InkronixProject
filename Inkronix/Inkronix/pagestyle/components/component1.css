@@ -1,0 +1,17 @@
+.component1-container {
+  display: flex;
+  position: relative;
+}
+.component1-icon {
+  fill: #D9D9D9;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  border-color: #d9d9d9;
+  border-width: 1px;
+}
+.component1-root-class-name {
+  top: 10px;
+  right: 22px;
+  position: absolute;
+}

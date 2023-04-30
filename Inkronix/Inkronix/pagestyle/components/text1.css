@@ -1,0 +1,27 @@
+.text1-container {
+  display: flex;
+  position: relative;
+}
+.text1-text {
+  color: var(--dl-color-default-dark25);
+  height: auto;
+  flex-grow: 1;
+  font-size: 13.6149px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+@media(max-width: 479px) {
+  .text1-text {
+    color: var(--dl-color-default-dark25);
+    font-size: 13.6149px;
+    font-family: Roboto;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+  }
+}

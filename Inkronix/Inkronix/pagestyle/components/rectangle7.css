@@ -1,0 +1,15 @@
+.rectangle7-rectangle7 {
+  width: 146px;
+  height: 60px;
+  display: flex;
+  position: relative;
+  border-color: transparent;
+  border-radius: 13.91526985168457px;
+  background-size: cover;
+  background-image: url("public/playground_assets/rectangle71945-47mr-200h.png");
+  background-position: center;
+}
+
+.rectangle7-rectangle7:active {
+  border-radius: 0px;
+}

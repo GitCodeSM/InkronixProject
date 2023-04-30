@@ -1,0 +1,22 @@
+.text-container {
+  display: flex;
+  position: relative;
+}
+.text-text {
+  color: var(--dl-color-default-dark25);
+  width: 21px;
+  height: auto;
+  font-size: 20.9459px;
+  font-style: Solid;
+  text-align: center;
+  font-family: Font Awesome 6 Free;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text-root-class-name {
+  top: -2px;
+  right: -185px;
+  position: absolute;
+}

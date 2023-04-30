@@ -1,0 +1,21 @@
+.rectangle71-container {
+  display: flex;
+  position: relative;
+}
+.rectangle71-link {
+  display: contents;
+}
+.rectangle71-rectangle7 {
+  width: 146px;
+  height: 60px;
+  position: relative;
+  transition: 0.3s;
+  border-radius: 13.91526985168457px;
+}
+
+
+.rectangle71-root-class-name {
+  top: 0px;
+  left: 0px;
+  position: absolute;
+}

@@ -1,0 +1,18 @@
+.rectangle72-container {
+  display: flex;
+  position: relative;
+}
+.rectangle72-rectangle7 {
+  width: 146px;
+  height: 60px;
+  position: relative;
+  transition: 0.3s;
+  border-radius: 13.91526985168457px;
+}
+
+
+.rectangle72-root-class-name {
+  top: 0px;
+  left: 0px;
+  position: absolute;
+}

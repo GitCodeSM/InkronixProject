@@ -1,0 +1,14 @@
+.settings-container {
+  display: flex;
+  position: relative;
+}
+.settings-settings {
+  width: 50px;
+  height: 50px;
+  position: relative;
+}
+.settings-root-class-name {
+  top: 83px;
+  left: -23px;
+  position: absolute;
+}
